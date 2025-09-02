@@ -1,8 +1,8 @@
 # PF-Lab03-25K0865
-#About Me
+## About Me
 Hi! I'm Sara and I've always been interested in web development. I wish to be able to create fun and useful apps.
 ***I learned python in my alevels and have been working on my programming skills since then.***
-## My subjects
+### My subjects
 These are the subjects i took in Alevels.
 - Maths
 - Physics
